@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = git@github.com:IFAM-MES-Backend/server.git
+[submodule "manutencao-e-evolucao"]
+	path = manutencao-e-evolucao
+	url = git@github.com:SaileSC/manutencao-e-evolucao.git
